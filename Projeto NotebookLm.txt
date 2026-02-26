@@ -1,6 +1,16 @@
 Objetivo 
 
-Criar um segundo cérebro baseado nas melhores práticas, metodologias e cursos de Cibersegurança.
+Desenvolver um ecossistema estruturado de conhecimento em Cibersegurança no NotebookLM, integrando frameworks internacionais, certificações reconhecidas, prática ofensiva e defensiva, e inteligência de ameaças, com foco em:
+
+Construção de autoridade técnica
+
+Aceleração de certificações estratégicas
+
+Desenvolvimento de mentalidade analítica baseada em frameworks
+
+Evolução contínua por meio de prática deliberada
+
+Criação de um repositório vivo de conhecimento aplicável
 
 Fontes de texto
 
