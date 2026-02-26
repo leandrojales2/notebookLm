@@ -1,0 +1,80 @@
+Objetivo 
+
+Criar um segundo cérebro baseado nas melhores práticas, metodologias e cursos de Cibersegurança.
+
+Fontes de texto
+
+
+https://www.nist.gov/cyberframework
+https://www.iso.org/standard/27001
+https://www.cisecurity.org/controls
+https://attack.mitre.org/
+https://owasp.org/www-project-top-ten/
+https://portswigger.net/web-security
+
+Organizações com Treinamentos e Certificações Reputadas
+https://www.sans.org/
+https://www.isc2.org/
+https://www.isaca.org/
+https://www.eccouncil.org/
+
+Sites de Notícias e Atualizações de Segurança
+https://krebsonsecurity.com/
+https://thehackernews.com/
+
+Plataformas de Prática e Laboratórios
+https://www.hackthebox.eu/
+https://tryhackme.com/
+https://portswigger.net/web-security
+
+Projetos, Repositórios e Recursos Extras
+https://github.com/danieldonda/Cybersecurity101?utm_source=chatgpt.com
+https://www.mitre.org/
+
+Vídeos do Youtube
+https://www.nist.gov/cyberframework
+https://www.cisecurity.org/controls
+https://owasp.org/www-project-top-ten/
+https://www.youtube.com/watch?v=U_P23SqJaDc
+https://www.youtube.com/watch?v=F6FdY9vFy2o
+https://www.youtube.com/watch?v=C7Ni5Y0yMG0
+https://www.youtube.com/c/TheCyberMentor
+https://www.youtube.com/c/ippsec
+https://www.youtube.com/c/HackerSploit
+https://www.youtube.com/c/JohnHammond010
+https://www.youtube.com/user/professormesser5
+https://www.youtube.com/c/DavidBombal
+
+https://www.rochestersecurity.org/2018/files/RSS2018-A1.pdf?utm_source=chatgpt.com
+https://www.edison-newworld.com/2022/12/26-cyber-security-youtube-channels.html
+https://www.scam-detector.com/top-6-youtube-channels-on-cybersecurity-to-follow-this-year
+https://www.placementpreparation.io/blog/best-youtube-channels-to-learn-cyber-security
+https://thecyberexpress.com/web-stories/top-youtube-cybersecurity-channels/?utm_source=chatgpt.com
+https://www.guvi.in/blog/web-stories/best-youtube-channels-to-learn-ethical-hacking
+
+https://www.youtube.com/watch?v=O6VhSkESLRU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
