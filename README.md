@@ -8,8 +8,6 @@ O projeto tem como finalidade consolidar frameworks internacionais, certificaç�
 
 Trata-se de um sistema de desenvolvimento profissional de longo prazo, orientado à excelência técnica e estratégica em Cibersegurança.
 
----
-
 ## Objetivo Estratégico
 
 Projetar e manter um ecossistema integrado de conhecimento em Cibersegurança que:
@@ -21,8 +19,6 @@ Projetar e manter um ecossistema integrado de conhecimento em Cibersegurança qu
 - Permita retenção, consulta e reaplicação estruturada do conhecimento
 
 O objetivo final é construir um ativo de conhecimento reutilizável, escalável e orientado à aceleração de carreira e maturidade técnica.
-
----
 
 ## Frameworks de Referência
 
@@ -36,8 +32,6 @@ O projeto está estruturado com base nos seguintes padrões e metodologias:
 
 Esses frameworks constituem a base arquitetural para organização e categorização do conteúdo.
 
----
-
 ## Organizações de Certificação e Treinamento
 
 As seguintes instituições são utilizadas como referência para alinhamento profissional e trilhas de certificação:
@@ -49,8 +43,6 @@ As seguintes instituições são utilizadas como referência para alinhamento pr
 
 Cada trilha de certificação é mapeada por domínios, anotações estruturadas e aplicação prática.
 
----
-
 ## Plataformas de Prática Técnica
 
 O desenvolvimento prático é estruturado por meio de documentação técnica baseada em laboratórios e exercícios das seguintes plataformas:
@@ -61,8 +53,6 @@ O desenvolvimento prático é estruturado por meio de documentação técnica ba
 
 Cada prática inclui registro técnico, vetores de ataque, medidas defensivas e lições aprendidas.
 
----
-
 ## Inteligência de Ameaças e Atualização Contínua
 
 A atualização constante é suportada por fontes especializadas do setor, como:
@@ -72,7 +62,6 @@ A atualização constante é suportada por fontes especializadas do setor, como:
 
 Quando aplicável, ameaças e técnicas são correlacionadas com o framework MITRE ATT&CK.
 
----
 
 ## Estrutura do Repositório
 
@@ -87,8 +76,6 @@ Quando aplicável, ameaças e técnicas são correlacionadas com o framework MIT
 /09-Ferramentas-e-Cheatsheets
 /10-Insights-e-Pesquisa
 
----
-
 ## Metodologia
 
 O projeto segue uma abordagem estruturada de engenharia do conhecimento:
@@ -101,8 +88,6 @@ O projeto segue uma abordagem estruturada de engenharia do conhecimento:
 
 Todo conteúdo é curado, sintetizado e contextualizado para uso de longo prazo.
 
----
-
 ## Visão de Longo Prazo
 
 - Consolidar autoridade técnica em Cibersegurança  
@@ -110,9 +95,3 @@ Todo conteúdo é curado, sintetizado e contextualizado para uso de longo prazo.
 - Integrar perspectivas de Red Team e Blue Team  
 - Desenvolver ativos de conhecimento reutilizáveis  
 - Estruturar base para pesquisa avançada e posições de liderança  
-
----
-
-## Contribuição
-
-Este repositório representa um sistema profissional em constante evolução. Sugestões estratégicas, melhorias estruturais e contribuições técnicas são bem-vindas.
